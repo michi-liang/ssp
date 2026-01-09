@@ -13,6 +13,8 @@ Since the function uses an iterative loop, a difference is also printed per cycl
 A txt file will be included for an example for input. 
 Note that Light Speed has been accounted for.
 
+Use odtext for excutable.
+
   
 montecarlo.py was the function used for generating Monte Carlo Data.
   Code contains constants used in the determination of 2253 Espinette. 
